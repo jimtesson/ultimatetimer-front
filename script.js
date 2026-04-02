@@ -1,4 +1,4 @@
-let BACKEND_URL = 'http://dytdicbsmkqyi.cloudfront.net';
+let BACKEND_URL = 'http://qrdm2jzhdf.eu-west-3.awsapprunner.com/';
 
 
 if (BACKEND_URL[BACKEND_URL.length - 1] === '/') {
